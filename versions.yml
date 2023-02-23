@@ -1,0 +1,12 @@
+alice:
+  language: en,kr
+  version: 1
+  chapters: 
+    - filename: ch01.yml
+    - filename: ch02.txt
+odyssey:
+  language: en,kr
+  version: 1
+  chapters: 
+    - filename: ch01.txt
+    - filename: ch02.txt
