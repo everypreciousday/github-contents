@@ -3,10 +3,9 @@ alice:
   version: 1
   chapters: 
     - filename: ch01.yml
-    - filename: ch02.txt
-odyssey:
+    - filename: ch02.yml
+metamorphosis:
   language: en,kr
   version: 1
   chapters: 
-    - filename: ch01.txt
-    - filename: ch02.txt
+    - filename: ch01.yml
