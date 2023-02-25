@@ -2,10 +2,10 @@ alice:
   language: en,kr
   version: 1
   chapters: 
-    - filename: ch01.yml
-    - filename: ch02.yml
+    - ch01.yml
+    - ch02.yml
 metamorphosis:
   language: en,kr
   version: 1
   chapters: 
-    - filename: ch01.yml
+    - ch01.yml

@@ -18,7 +18,7 @@ def main():
             print(f"book_version:{book_version}")
             print(f"book_language:{book_language}")
             for book_chapter in book_chapters:
-                filename = book_chapter['filename']
+                filename = book_chapter
                 print(f"filename:{filename}")
                 if ".yml" not in filename:
                     continue
