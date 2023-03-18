@@ -1,6 +1,6 @@
 alice:
   language: en,kr
-  version: 1
+  version: 2
   chapters: 
     - ch01.yml
     - ch02.yml

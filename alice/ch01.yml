@@ -17,7 +17,7 @@ content:
   - but it had no pictures or conversations in it,
   - 그러나 그것은 그림이나 대화가 전혀 없었다,
   - “and what is the use of a book,”
-  - “그렇다면 책이 무슨 소용일까“
+  - “책이 무슨 소용일까“
   - thought Alice “without pictures or conversations?“
   - 앨리스는 생각했다, “그림이나 대화가 없다면?“
   vocas:
@@ -31,17 +31,19 @@ content:
     - 그는 열쇠구멍을 통해 방을 들여다 보려 노력했다.
 - lines:
   - So she was considering in her own mind
-  - 그래서 그녀는 그녀의 마음 속에서 고려하고 있었다.
+  - 그래서 그녀는 마음 속에서 고민하고 있었다.
   - (as well as she could,
   - (그녀가 할 수 있을만큼,
   - for the hot day made her feel very sleepy and stupid),
-  - 뜨거운 날이 그녀를 졸리고 멍하게 만들었다)
+  - 뜨거운 날이 그녀를 졸리고 멍하게 만들었었다)
   - whether
   - 인지 아닌지
   - the pleasure of making a daisy-chain would be
   - 데이지꽃 목걸이를 만드는 것의 즐거움이
-  - worth the trouble of getting up and picking the daisies,
-  - 일어나서 데이지꽃을 줍는 것의 귀찮음을 감내할만큼인지.
+  - worth the trouble
+  - 귀찮음을 감내할 가치가 있는지
+  - of getting up and picking the daisies,
+  - 일어나서 데이지꽃을 줍는 것의
   vocas:
   - voca: daisy-chain
     usage: daisy-chain
@@ -51,10 +53,13 @@ content:
     - the pleasure of making a daisy-chain
     - 데이지꽃 목걸이를 만드는 것의 즐거움
 - lines:
-  - when suddenly a White Rabbit with pink eyes ran close by her.
-  - 그때 갑자기 핑크 눈의 흰 토끼가 그녀의 곁을 달려나갔다.
+  - when suddenly
+  - 그때 갑자기
+  - a White Rabbit with pink eyes
+  - 핑크 눈의 흰 토끼가
+  - ran close by her.
+  - 그녀의 곁을 달려나갔다.
 - lines:
-  - There was nothing so very remarkable in that;
   - There was nothing so very remarkable in that;
   - nor did Alice think it so very much out of the way to hear the Rabbit say to itself,
   - “Oh dear! Oh dear! I shall be late!“
